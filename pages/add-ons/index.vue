@@ -31,7 +31,7 @@
       </div>
 
       <div class="mt-20 flex justify-between w-full md:w-[120%]">
-        <nuxt-link to="/" class="self-start"
+        <nuxt-link to="/plan" class="self-start"
           ><p class="text-[#B8BBC4] font-medium mt-2">Go Back</p></nuxt-link
         >
         <button
